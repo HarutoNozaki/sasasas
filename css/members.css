@@ -10,6 +10,9 @@
     text-align: center;
 }
 
+
+
+
 .members h2::after {
     content: "";
     display: block;
